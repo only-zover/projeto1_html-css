@@ -1,4 +1,4 @@
-# Link: https://atmospherical-twist.000webhostapp.com/
+# Link: https://only-zover.github.io/projeto1_html-css/
 
 # PROJETO 1 - HTML e CSS
 <p>&emsp;&emsp;Nessa etapa do projeto, será avaliada a capadacidade da equipe em elaborar um código HTML e CSS que replique o comportamento visual de um website selecionado pela própria equipe. Essa escolha poderá ser realizada a partir de modelos de websites apresentados pelo professor em sala  de aula. Qualquer outra biblioteca utilizada não aprovada previamente pelo professor será desconsiderada da avaliação. Se for constatada cópia de artefatos de outros projetos, sera atribuída nota zero e o projeto não poderá passar pela etapa de recuperação de nota. </p>
