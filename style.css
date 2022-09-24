@@ -31,7 +31,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 10vh;
+    height: 67px;
     box-shadow: 0 2px 10px rgb(0 0 0 / 25%);
 }
 
@@ -50,6 +50,7 @@ header {
 .nav-list {
     width: 52vw;
     display: inline;
+    margin: 0 15px;
 }
 
 .nav-list li {
@@ -65,11 +66,18 @@ header {
 
 .getit {
     padding: 26px 0 15px;
-
-    width: 10%;
+    width: 15%;
     display: inline;
     margin-left: 10px;
+}
 
+.getit a {
+    display: inline-flex;
+    padding: 2px 10px;
+    border: 1px solid blue;
+    border-radius: 3px;
+
+    font-weight: 900;
 }
 /*__________________________________________________________MAIN_______________________________________________________________*/
 main {
@@ -142,3 +150,4 @@ main {
 .img img {
     display: block;
 }
+/*__________________________________________________________RESPONSIVIDADE_______________________________________________________________*/
