@@ -36,8 +36,6 @@ header {
 }
 
 .navbar {
-    height: 8vh;
-    width: 60vw;
 }
 
 .div-container {
@@ -45,6 +43,10 @@ header {
     justify-content: space-between;
     align-items: center;
     height: 8vh;
+}
+
+.logo {
+    border-top: 10px solid #FFF;
 }
 
 .nav-list {
@@ -71,13 +73,7 @@ header {
 
 .getit {
     padding: 26px 0 15px;
-    width: 15%;
-    display: inline;
     margin-left: 10px;
-}
-
-.getit a:hover {
-    background: #ebecf0;
 }
 
 .getit a {
@@ -87,6 +83,10 @@ header {
     border-radius: 3px;
     font-weight: 900;
     transition: 0.5s;
+}
+
+.getit a:hover {
+    background: #ebecf0;
 }
 /*__________________________________________________________MAIN_______________________________________________________________*/
 main {
@@ -146,7 +146,13 @@ main {
     background-color: #0052CC;
     padding: 7px 16px;
     border-radius: 5px;
+    transition: 250ms;
 }
+
+.bt a:hover {
+    background-color: #0047b3;
+    border-color: #0047b3;
+} 
 
 .img {
     display: flex;
@@ -159,7 +165,7 @@ main {
     width: 61vw;
 } 
 /*__________________________________________________________RESPONSIVIDADE_______________________________________________________________*/
-@media screen and (max-width: 1482px) {
+@media screen and (max-width: 1070px) {
     .nav-list {
         display: none;
     }
